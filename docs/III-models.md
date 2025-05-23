@@ -6,8 +6,8 @@
 
 ## Contents
 
-<!-- [III. Models](III-basic.md) -->
-- [III.A. Typical Model Families](III-basic.md#iiia-typical-examples-of-edge-llms)
+[III. Models](III-basic.md)
+- [III.A. Typical Examples of Model Families](III-basic.md#iiia-typical-examples-of-edge-llms)
   - [Fast Links 🚀](III-basic.md#fast-links)
   - [Sort by Time 📅](III-basic.md#sort-by-time)
     - [2020](III-basic.md#2020)
@@ -18,7 +18,7 @@
     - [2025](III-basic.md#2025)
 - [III.B. Capability on Multimodal Tasks 📷](III-basic.md#iiib-capability-on-multimodal-tasks)
 
-## III.A. Typical Model Families
+## III.A. Typical Examples of Model Families
 
 ### Fast Links
 | Model | Organization | Links  |

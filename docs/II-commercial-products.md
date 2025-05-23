@@ -1,7 +1,20 @@
-# II. Commercial Products and Cases
+# II. Commercial Products and Applications
+
+<p align="left">
+<a href="../README.md#table-of-contents">👈🏻Back to Main Content</a>
+</p>
+
+## Contents
+
+- [II. Commercial Cases](#ii-commercial-products-and-cases)
+  - [II.A. Downstream Applications](#iia-applications-and-ai-agents)
+    - [Text Generation](#text-generation)
+    - [Image Generation](#image-generation) 
+    - [Intelligent Assistant](#intelligent-assistant)
+  - [II.B. Accelerators and AI Chips](#iib-accelerators-and-ai-chips)
 
 
-## II.A. Applications and AI Agents
+## II.A. Downstream Applications
 
 ### Text Generation
 

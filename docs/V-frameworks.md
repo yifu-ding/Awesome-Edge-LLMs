@@ -25,8 +25,8 @@
   - [V.E.1. Heterogeneous Platforms](V-frameworks.md#ve1-heterogeneous-platforms)
   - [V.E.2. Heterogeneous Computing](V-frameworks.md#ve2-heterogeneous-computing)
 [V.F. Cloud-Edge Collaboration](V-frameworks.md#vf-cloud-edge-collaboration)
-  - [V.F.3.1. Separate Model Deployment](V-frameworks.md#vf31-separate-model-deployment)
-  - [V.F.3.2. Partitioned Model Deployment](V-frameworks.md#vf32-partitioned-model-deployment)
+  - [V.F.1. Separate Model Deployment](V-frameworks.md#vf31-separate-model-deployment)
+  - [V.F.2. Partitioned Model Deployment](V-frameworks.md#vf32-partitioned-model-deployment)
 
 
 ## V.A. High-Speed Computation Kernels
@@ -34,16 +34,16 @@
 ### V.A.1. Quantization
 
 - Towards Efficient LUT-based PIM: A Scalable and Low-Power Approach for Modern Workloads <a href="https://arxiv.org/abs/2502.02142" target="_blank"> <img src="https://img.shields.io/badge/arxiv-25.02-b31b1b" alt="badge"/></a> 
-- PowerInfer-2: Fast Large Language Model Inference on a Smartphone <a href="https://arxiv.org/abs/2406.06282" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.06-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/PowerInfer--2-568A37" alt="badge" />
-- MNN-LLM: A Generic Inference Engine for Fast Large Language Model Deployment on Mobile Devices <a href="https://dl.acm.org/doi/10.1145/3700410.3702126" target="_blank"> <img src="https://img.shields.io/badge/ACM-24.12-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/MNN--LLM-568A37" alt="badge" />
+- PowerInfer-2: Fast Large Language Model Inference on a Smartphone <a href="https://arxiv.org/abs/2406.06282" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.06-b31b1b" alt="badge"/></a> <a href="https://github.com/SJTU-IPADS/PowerInfer" target="_blank"> <img src="https://img.shields.io/badge/git-SJTU--IPADS-6BACF8" alt="badge"/></a>  <a href="https://powerinfer.ai/v2/" target="_blank"> <img src="https://img.shields.io/badge/official-powerinfer.ai-A9EA7A" alt="badge"/></a> <img src="https://img.shields.io/badge/PowerInfer--2-7875DF" alt="badge" />
+- MNN-LLM: A Generic Inference Engine for Fast Large Language Model Deployment on Mobile Devices <a href="https://dl.acm.org/doi/10.1145/3700410.3702126" target="_blank"> <img src="https://img.shields.io/badge/ACM-24.12-b31b1b" alt="badge"/></a> <a href="https://github.com/alibaba/MNN" target="_blank"> <img src="https://img.shields.io/badge/git-alibaba-6BACF8" alt="badge"/></a> <img src="https://img.shields.io/badge/MNN--LLM-7875DF" alt="badge" /> 
 - PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference <a href="https://dl.acm.org/doi/10.1145/3676641.3716267" target="_blank"> <img src="https://img.shields.io/badge/ACM-25.03-b31b1b" alt="badge" /> </a>
-- Empowering 1000 Tokens/Second On-Device LLM Prefilling With mllm-NPU <a href="https://arxiv.org/html/2407.05858v1" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.07-b31b1b" alt="badge"/></a>  <img src="https://img.shields.io/badge/mllm--NPU-568A37" alt="badge" /> 
+- Empowering 1000 Tokens/Second On-Device LLM Prefilling With mllm-NPU <a href="https://arxiv.org/html/2407.05858v1" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.07-b31b1b" alt="badge"/></a>  <img src="https://img.shields.io/badge/mllm--NPU-7875DF" alt="badge" /> 
 - Jupiter: Fast and Resource-Efficient Collaborative Inference of Generative LLMs on Edge Devices <a href="https://arxiv.org/abs/2504.08242" target="_blank"> <img src="https://img.shields.io/badge/arxiv-25.03-b31b1b" alt="badge" /> </a>
 - RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications <a href="https://github.com/alibaba/rtp-llm" target="_blank"> <img src="https://img.shields.io/badge/git-rtp_llm-6BACF8" alt="badge" /> </a>
 - TeLLMe: An Energy-Efficient Ternary LLM Accelerator for Prefilling and Decoding on Edge FPGAs <a href="https://arxiv.org/abs/2504.16266" target="_blank"> <img src="https://img.shields.io/badge/arxiv-25.04-b31b1b" alt="badge" /> </a>
 - Minicache: Kv cache compression in depth dimension for large language models <a href="https://arxiv.org/abs/2405.14366" target="_blank"> <img src="https://img.shields.io/badge/NeurIPS-2024-b31b1b" alt="badge" /> </a>
 - Energon: Toward efficient acceleration of transformers using dynamic sparse attention <a href="https://arxiv.org/abs/2110.09310" target="_blank"> <img src="https://img.shields.io/badge/arxiv-21.10-b31b1b" alt="badge" /> </a>
-- Transformer-lite: High-efficiency deployment of large language models on mobile phone gpus <a href="https://arxiv.org/abs/2403.20041" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.03-b31b1b" alt="badge"/></a>  <img src="https://img.shields.io/badge/Transformer--Lite-568A37" alt="badge" />
+- Transformer-lite: High-efficiency deployment of large language models on mobile phone gpus <a href="https://arxiv.org/abs/2403.20041" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.03-b31b1b" alt="badge"/></a>  <img src="https://img.shields.io/badge/Transformer--Lite-7875DF" alt="badge" />
 
 
 <!-- - ZeroQuant-V2: Exploring Post-Training Quantization in LLMs from Comprehensive Study to Low Rank Compensation <a href="https://arxiv.org/abs/2303.08302" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.03-b31b1b" alt="badge" /> </a>
@@ -76,12 +76,12 @@
 ## V.B. Graph Optimization
 
 <!-- ### V.B.1. Atomic Operators Fusion -->
-- MNN-LLM: A Generic Inference Engine for Fast Large Language Model Deployment on Mobile Devices <a href="https://dl.acm.org/doi/10.1145/3700410.3702126" target="_blank"> <img src="https://img.shields.io/badge/ACM-24.12-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/MNN--LLM-568A37" alt="badge" />
-- Deepspeed-inference: Enabling efficient inference of transformer models at unprecedented scale <a href="https://arxiv.org/abs/2207.00032" target="_blank"> <img src="https://img.shields.io/badge/arxiv-22.07-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/Deepspeed--inference-568A37" alt="badge" />
-- Transformer-lite: High-efficiency deployment of large language models on mobile phone gpus <a href="https://arxiv.org/abs/2403.20041" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.03-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/Transformer--Lite-568A37" alt="badge" />
+- MNN-LLM: A Generic Inference Engine for Fast Large Language Model Deployment on Mobile Devices <a href="https://dl.acm.org/doi/10.1145/3700410.3702126" target="_blank"> <img src="https://img.shields.io/badge/ACM-24.12-b31b1b" alt="badge"/></a>  <a href="https://github.com/alibaba/MNN" target="_blank"> <img src="https://img.shields.io/badge/git-alibaba-6BACF8" alt="badge"/></a> <img src="https://img.shields.io/badge/MNN--LLM-7875DF" alt="badge" />
+- Deepspeed-inference: Enabling efficient inference of transformer models at unprecedented scale <a href="https://arxiv.org/abs/2207.00032" target="_blank"> <img src="https://img.shields.io/badge/arxiv-22.07-b31b1b" alt="badge"/></a> <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank"> <img src="https://img.shields.io/badge/git-deepspeedai-6BACF8" alt="badge"/></a> <img src="https://img.shields.io/badge/Deepspeed--inference-7875DF" alt="badge" />
+- Transformer-lite: High-efficiency deployment of large language models on mobile phone gpus <a href="https://arxiv.org/abs/2403.20041" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.03-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/Transformer--Lite-7875DF" alt="badge" />
 - SmartMem: Layout transformation elimination and adaptation for efficient dnn execution on mobile <a href="https://arxiv.org/abs/2404.13528" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.04-b31b1b" alt="badge"/></a> <!-- ### V.B.2. Reuse and Sharing -->
 - SystemML: Declarative machine learning on MapReduce <a href="https://vikas.sindhwani.org/systemML.pdf" target="_blank"> <img src="https://img.shields.io/badge/VLDB-11.08-b31b1b" alt="badge" /> </a>
-- Empowering 1000 Tokens/Second On-Device LLM Prefilling With mllm-NPU <a href="https://arxiv.org/html/2407.05858v1" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.07-b31b1b" alt="badge"/></a>   <img src="https://img.shields.io/badge/mllm--NPU-568A37" alt="badge" /> <!-- V.B.3. Automatic Graph Generation -->
+- Empowering 1000 Tokens/Second On-Device LLM Prefilling With mllm-NPU <a href="https://arxiv.org/html/2407.05858v1" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.07-b31b1b" alt="badge"/></a>   <img src="https://img.shields.io/badge/mllm--NPU-7875DF" alt="badge" /> <!-- V.B.3. Automatic Graph Generation -->
 - QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models <a href="https://arxiv.org/abs/2307.03738" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.07-b31b1b" alt="badge" /> </a>
 
 
@@ -98,16 +98,16 @@
 - LightFormer: Light-weight Transformer Using SVD-based Weight Transfer and Parameter Sharing <a href="https://aclanthology.org/2023.findings-acl.656/" target="_blank"> <img src="https://img.shields.io/badge/ACL-23.07-b31b1b" alt="badge" /> </a>
 - EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models <a href="https://arxiv.org/abs/2407.21325" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.07-b31b1b" alt="badge" /> </a>
 - High-throughput Generative Inference of Large Language Models with a Single GPU <a href="https://api.semanticscholar.org/CorpusID:257495837" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.05-b31b1b" alt="badge" /> </a>
-- FlashDecoding++: Faster Large Language Model Inference on GPUs <a href="https://arxiv.org/abs/2311.01282" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.11-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/FlashDecoding++-568A37" alt="badge" />
+- FlashDecoding++: Faster Large Language Model Inference on GPUs <a href="https://arxiv.org/abs/2311.01282" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.11-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/FlashDecoding++-7875DF" alt="badge" />
 - MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases <a href="https://arxiv.org/abs/2402.14905" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.02-b31b1b" alt="badge" /> </a>
 - MECLA: Memory-Compute-Efficient LLM Accelerator with Scaling Sub-matrix Partition <a href="https://www.computer.org/csdl/proceedings-article/isca/2024/265800b032/1Z3pCEBnapO" target="_blank"> <img src="https://img.shields.io/badge/ISCA-24.06-b31b1b" alt="badge" /> </a>
-- Transformer-Lite: High-Efficiency Deployment of Large Language Models on Mobile Phone GPUs <a href="https://arxiv.org/abs/2403.20041" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.03-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/Transformer--Lite-568A37" alt="badge" />
+- Transformer-Lite: High-Efficiency Deployment of Large Language Models on Mobile Phone GPUs <a href="https://arxiv.org/abs/2403.20041" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.03-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/Transformer--Lite-7875DF" alt="badge" />
 
 ### V.C.2. Data Locality and Access Pattern
 #### Tensor Reorder
 <!-- - GPU Merge Path: A GPU Merging Algorithm <a href="https://doi.org/10.1145/2304576.2304621" target="_blank"> <img src="https://img.shields.io/badge/ACM-12.06-b31b1b" alt="badge"/></a> -->
 <!-- - An Overview on Loop Tiling Techniques for Code Generation <a href="https://ieeexplore.ieee.org/document/8308298" target="_blank"> <img src="https://img.shields.io/badge/IEEE-18.03-b31b1b" alt="badge"/></a> -->
-- HeteroLLM: Accelerating Large Language Model Inference on Mobile SoCs Platform with Heterogeneous AI Accelerators <a href="https://arxiv.org/abs/2501.14794" target="_blank"> <img src="https://img.shields.io/badge/arxiv-25.01-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/HeteroLLM-568A37" alt="badge" />
+- HeteroLLM: Accelerating Large Language Model Inference on Mobile SoCs Platform with Heterogeneous AI Accelerators <a href="https://arxiv.org/abs/2501.14794" target="_blank"> <img src="https://img.shields.io/badge/arxiv-25.01-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/HeteroLLM-7875DF" alt="badge" />
 - Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time <a href="https://arxiv.org/abs/2310.17157" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.10-b31b1b" alt="badge" /> </a>
 - T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge <a href="https://arxiv.org/abs/2407.00088" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.07-b31b1b" alt="badge" /> </a>
 
@@ -125,7 +125,7 @@
 - EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models <a href="https://arxiv.org/abs/2407.21325" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.07-b31b1b" alt="badge"/></a> 
 
 #### KV Cache Offloading
-- MNN-LLM: A Generic Inference Engine for Fast Large Language Model Deployment on Mobile Devices <a href="https://dl.acm.org/doi/10.1145/3700410.3702126" target="_blank"> <img src="https://img.shields.io/badge/ACM-24.12-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/MNN--LLM-568A37" alt="badge" />
+- MNN-LLM: A Generic Inference Engine for Fast Large Language Model Deployment on Mobile Devices <a href="https://dl.acm.org/doi/10.1145/3700410.3702126" target="_blank"> <img src="https://img.shields.io/badge/ACM-24.12-b31b1b" alt="badge"/></a> <a href="https://github.com/alibaba/MNN" target="_blank"> <img src="https://img.shields.io/badge/git-alibaba-6BACF8" alt="badge"/></a>  <img src="https://img.shields.io/badge/MNN--LLM-7875DF" alt="badge" />
 - LLM as a System Service on Mobile Devices <a href="https://arxiv.org/abs/2403.11805" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.03-b31b1b" alt="badge" /> </a>
 - Energon: Toward Efficient Acceleration of Transformers Using Dynamic Sparse Attention <a href="https://arxiv.org/abs/2110.09310" target="_blank"> <img src="https://img.shields.io/badge/arxiv-21.10-b31b1b" alt="badge" /> </a>
 
@@ -147,7 +147,7 @@
 ### V.D.1. Double Buffering
 
 - SwapAdvisor: Pushing Deep Learning Beyond the GPU Memory Limit via Smart Swapping <a href="https://dl.acm.org/doi/10.1145/3373376.3378530" target="_blank"> <img src="https://img.shields.io/badge/ACM-20.04-b31b1b" alt="badge" /> </a>
-- PowerInfer-2: Fast Large Language Model Inference on a Smartphone <a href="https://arxiv.org/abs/2406.06282" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.06-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/PowerInfer--2-568A37" alt="badge" />
+- PowerInfer-2: Fast Large Language Model Inference on a Smartphone <a href="https://arxiv.org/abs/2406.06282" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.06-b31b1b" alt="badge"/></a> <a href="https://github.com/SJTU-IPADS/PowerInfer" target="_blank"> <img src="https://img.shields.io/badge/git-SJTU--IPADS-6BACF8" alt="badge"/></a>  <a href="https://powerinfer.ai/v2/" target="_blank"> <img src="https://img.shields.io/badge/official-powerinfer.ai-A9EA7A" alt="badge"/></a> <img src="https://img.shields.io/badge/PowerInfer--2-7875DF" alt="badge" />
 - SpeedLoader: An I/O Efficient Scheme for Heterogeneous and Distributed LLM Operation <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/3d3a9e085540c65dd3e5731361f9320e-Abstract-Conference.html" target="_blank"> <img src="https://img.shields.io/badge/NeurIPS-24.12-b31b1b" alt="badge" /> </a>
 - LLM as a System Service on Mobile Devices <a href="https://arxiv.org/abs/2403.11805" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.03-b31b1b" alt="badge" /> </a>
 
@@ -155,8 +155,8 @@
 
 ### V.D.2. Multi-core Workload Balancing
 
-- MNN-LLM: A Generic Inference Engine for Fast Large Language Model Deployment on Mobile Devices <a href="https://dl.acm.org/doi/10.1145/3700410.3702126" target="_blank"> <img src="https://img.shields.io/badge/ACM-24.12-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/MNN--LLM-568A37" alt="badge" />
-- Deepspeed-inference: Enabling efficient inference of transformer models at unprecedented scale <a href="https://arxiv.org/abs/2207.00032" target="_blank"> <img src="https://img.shields.io/badge/arxiv-22.07-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/Deepspeed--inference-568A37" alt="badge" />
+- MNN-LLM: A Generic Inference Engine for Fast Large Language Model Deployment on Mobile Devices <a href="https://dl.acm.org/doi/10.1145/3700410.3702126" target="_blank"> <img src="https://img.shields.io/badge/ACM-24.12-b31b1b" alt="badge"/></a>  <a href="https://github.com/alibaba/MNN" target="_blank"> <img src="https://img.shields.io/badge/git-alibaba-6BACF8" alt="badge"/></a> <img src="https://img.shields.io/badge/MNN--LLM-7875DF" alt="badge" />
+- Deepspeed-inference: Enabling efficient inference of transformer models at unprecedented scale <a href="https://arxiv.org/abs/2207.00032" target="_blank"> <img src="https://img.shields.io/badge/arxiv-22.07-b31b1b" alt="badge"/></a> <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank"> <img src="https://img.shields.io/badge/git-deepspeedai-6BACF8" alt="badge"/></a>  <img src="https://img.shields.io/badge/Deepspeed--inference-7875DF" alt="badge" />
 
 
 
@@ -175,7 +175,7 @@
 - An LPDDR-Based CXL-PNM Platform for TCO-Efficient Inference of Transformer-Based Large Language Models <a href="https://ieeexplore.ieee.org/document/10476443" target="_blank"> <img src="https://img.shields.io/badge/Illinois-23.10-b31b1b" alt="badge" /> </a>
 - Understanding the Trade-offs in Multi-Level Cell ReRAM Memory Design <a href="https://dl.acm.org/doi/10.1145/2463209.2488867" target="_blank"> <img src="https://img.shields.io/badge/ACM-13.06-b31b1b" alt="badge" /> </a>
 - Towards Efficient LUT-Based PIM: A Scalable and Low-Power Approach for Modern Workloads <a href="https://arxiv.org/abs/2502.02142" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.02-b31b1b" alt="badge" /> </a>
-- PIM-AI: A Novel Architecture for High-Efficiency LLM Inference <a href="https://arxiv.org/abs/2411.17309" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.11-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/Samsung's_HBM--PIM-568A37" alt="badge" />
+- PIM-AI: A Novel Architecture for High-Efficiency LLM Inference <a href="https://arxiv.org/abs/2411.17309" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.11-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/Samsung's_HBM--PIM-7875DF" alt="badge" />
 - A Scalable and Energy-Efficient Processing-In-Memory Architecture for Gen-AI <a href="https://ieeexplore.ieee.org/document/10985893" target="_blank"> <img src="https://img.shields.io/badge/IEEE-24.02-b31b1b" alt="badge" /> </a>
 - The Landscape of Compute-Near-Memory and Compute-In-Memory: A Research and Commercial Overview <a href="https://arxiv.org/abs/2401.14428" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.01-b31b1b" alt="badge" /> </a>
 
@@ -207,7 +207,7 @@
 - Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM <a href="https://arxiv.org/abs/2502.16963" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.02-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/on_PIMs-ECE8EE" alt="badge" />
 - AttAcc! Unleashing the power of PIM for batched transformer-based generative model inference <a href="https://dl.acm.org/doi/10.1145/3620665.3640422" target="_blank"> <img src="https://img.shields.io/badge/ACM-23.12-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/on_PIMs-ECE8EE" alt="badge" />
 - Neupims: Npu-pim heterogeneous acceleration for batched llm inferencing <a href="https://arxiv.org/abs/2403.00579" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.03-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/on_PIMs-ECE8EE" alt="badge" />
-- PIM-AI: A Novel Architecture for High-Efficiency LLM Inference <a href="https://arxiv.org/abs/2411.17309" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.11-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/Samsung's_HBM--PIM-568A37" alt="badge" /> <img src="https://img.shields.io/badge/on_PIMs-ECE8EE" alt="badge" />
+- PIM-AI: A Novel Architecture for High-Efficiency LLM Inference <a href="https://arxiv.org/abs/2411.17309" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.11-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/Samsung's_HBM--PIM-7875DF" alt="badge" /> <img src="https://img.shields.io/badge/on_PIMs-ECE8EE" alt="badge" />
 - PAPI: Exploiting Dynamic Parallelism in Large Language Model Decoding with a Processing-In-Memory-Enabled Computing System <a href="https://arxiv.org/abs/2502.15470" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.02-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/on_PIMs-ECE8EE" alt="badge" />
 - Monde: Mixture of near-data experts for large-scale sparse models <a href="https://arxiv.org/abs/2405.18832" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.05-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/on_NDPs-ECE8EE" alt="badge" />
 - LM-Offload: Performance Model-Guided Generative Inference of Large Language Models with Parallelism Control <a href="https://pasalabs.org/papers/2024/llm_offload_2024.pdf" target="_blank"> <img src="https://img.shields.io/badge/PASA-24.01-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/on_CPUs-ECE8EE" alt="badge" />
@@ -217,9 +217,9 @@
 **Drove by Arithmetic Intensity**
 
 - Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective <a href="https://arxiv.org/abs/2410.04466" target="_blank"> <img src="https://img.shields.io/badge/Survey-568A37" alt="badge" /> </a>
-- PowerInfer-2: Fast Large Language Model Inference on a Smartphone <a href="https://arxiv.org/abs/2406.06282" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.06-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/PowerInfer--2-568A37" alt="badge" />
-- HeteroLLM: Accelerating Large Language Model Inference on Mobile SoCs Platform with Heterogeneous AI Accelerators <a href="https://arxiv.org/abs/2501.14794" target="_blank"> <img src="https://img.shields.io/badge/arxiv-25.01-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/HeteroLLM-568A37" alt="badge" />
-- Empowering 1000 Tokens/Second On-Device LLM Prefilling With mllm-NPU <a href="https://arxiv.org/html/2407.05858v1" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.07-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/mllm--NPU-568A37" alt="badge" />
+- PowerInfer-2: Fast Large Language Model Inference on a Smartphone <a href="https://arxiv.org/abs/2406.06282" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.06-b31b1b" alt="badge"/></a> <a href="https://github.com/SJTU-IPADS/PowerInfer" target="_blank"> <img src="https://img.shields.io/badge/git-SJTU--IPADS-6BACF8" alt="badge"/></a>  <a href="https://powerinfer.ai/v2/" target="_blank"> <img src="https://img.shields.io/badge/official-powerinfer.ai-A9EA7A" alt="badge"/></a> <img src="https://img.shields.io/badge/PowerInfer--2-7875DF" alt="badge" />
+- HeteroLLM: Accelerating Large Language Model Inference on Mobile SoCs Platform with Heterogeneous AI Accelerators <a href="https://arxiv.org/abs/2501.14794" target="_blank"> <img src="https://img.shields.io/badge/arxiv-25.01-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/HeteroLLM-7875DF" alt="badge" />
+- Empowering 1000 Tokens/Second On-Device LLM Prefilling With mllm-NPU <a href="https://arxiv.org/html/2407.05858v1" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.07-b31b1b" alt="badge"/></a> <img src="https://img.shields.io/badge/mllm--NPU-7875DF" alt="badge" />
 - Cambricon-llm: A chiplet-based hybrid architecture for on-device inference of 70b llm <a href="https://arxiv.org/abs/2409.15654" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.09-b31b1b" alt="badge" /> </a>
 
 <p align="left">
@@ -229,7 +229,7 @@
 
 ### V.F. Cloud-Edge Collaboration
 
-#### V.F.3.1 Separate Model Deployment
+#### V.F.1 Separate Model Deployment
 - PerLLM: Personalized Inference Scheduling with Edge-Cloud Collaboration for Diverse LLM Services <a href="https://arxiv.org/abs/2405.14636" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.05-b31b1b" alt="badge" /> </a>
 - Collaborative Learning of On-Device Small Model and Cloud-Based Large Model: Advances and Future Directions <a href="https://arxiv.org/abs/2504.15300" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.04-b31b1b" alt="badge" /> </a>
 - Cloud-Device Collaborative Learning for Multimodal Large Language Models <a href="https://arxiv.org/abs/2312.16279" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.12-b31b1b" alt="badge" /> </a>
@@ -257,10 +257,10 @@
 - GKT: A Novel Guidance-Based Knowledge Transfer Framework For Efficient Cloud-edge Collaboration LLM Deployment <a href="https://aclanthology.org/2024.findings-acl.204.pdf" target="_blank"> <img src="https://img.shields.io/badge/ACL-24.05-b31b1b" alt="badge" /> </a>
 - PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks <a href="https://arxiv.org/abs/2501.09367" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.01-b31b1b" alt="badge" /> </a>
 
-#### V.F.3.2 Partitioned Model Deployment
+#### V.F.2 Partitioned Model Deployment
 - Poster: PipeLLM: Pipeline LLM Inference on Heterogeneous Devices with Sequence Slicing <a href="https://dl.acm.org/doi/10.1145/3603269.3610856" target="_blank"> <img src="https://img.shields.io/badge/ACM-23.10-b31b1b" alt="badge" /> </a>
 - EdgeShard: Efficient LLM Inference via Collaborative Edge Computing <a href="https://arxiv.org/abs/2405.14371" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.05-b31b1b" alt="badge" /> </a>
-- Mobile Edge Intelligence for Large Language Models: A Contemporary Survey <a href="https://arxiv.org/abs/2407.18921" target="_blank"> <img src="https://img.shields.io/badge/Survey-568A37" alt="badge" /> </a>
+- Mobile Edge Intelligence for Large Language Models: A Contemporary Survey <a href="https://arxiv.org/abs/2407.18921" target="_blank"> <img src="https://img.shields.io/badge/Survey-7875DF" alt="badge" /> </a>
 
 
 
