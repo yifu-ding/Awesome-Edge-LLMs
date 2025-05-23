@@ -35,11 +35,13 @@
 [II. Commercial Products and Cases](docs/II-commercial-products.md)
   - [II.A. Accelerators and AI Chips](docs/II-commercial-products.md#iia-accelerators-and-ai-chips)
   - [II.B. Applications and AI Agents](docs/II-commercial-products.md#iib-applications-and-ai-agents)
-  
+
 [III. Basic](docs/III-basic.md)
 - [III.A. Typical Examples of Edge LLMs](docs/III-basic.md#iiia-typical-examples-of-edge-llms)
 - [III.B. Capability on Multimodal Tasks](docs/III-basic.md#iiib-capability-on-multimodal-tasks)
 
+IV. Algorithms (TBC)
+<!-- 
 [IV. Algorithms](docs/IV-algorithms.md)
 - [IV.A. Model Compression Techniques](docs/IV-algorithms.md#iva-model-compression-techniques)
   - [IV.A.1. Sparsification](docs/IV-algorithms.md#iva1-sparsification)
@@ -48,7 +50,7 @@
 - [IV.B. Meta-Architecture Design](docs/IV-algorithms.md#ivb-meta-architecture-design)
   - [IV.B.1. RNN-based](docs/IV-algorithms.md#ivb1-rnn-based)
   - [IV.B.2. Mamba](docs/IV-algorithms.md#ivb2-mamba)
-  - [IV.B.3. TTT-based](docs/IV-algorithms.md#ivb3-ttt-based)
+  - [IV.B.3. TTT-based](docs/IV-algorithms.md#ivb3-ttt-based) -->
 
 [V. Frameworks](docs/V-frameworks.md)
 - [V.A. High-Speed Computation Kernels](docs/V-frameworks.md#va-high-speed-computation-kernels)
@@ -70,16 +72,15 @@
   - [V.E.2. Heterogeneous Computing](docs/V-frameworks.md#ve2-heterogeneous-computing)
   - [V.E.3. Cloud-Edge Collaboration](docs/V-frameworks.md#ve3-cloud-edge-collaboration)
 
+VI. Hardware (TBC)
+<!-- 
 [VI. Hardware](docs/VI-hardware.md)
 - [VI.A. ASIC & FPGA](docs/VI-hardware.md#via-asic--fpga)
-- [VI.B. PIM](docs/VI-hardware.md#vib-pim)
+- [VI.B. PIM](docs/VI-hardware.md#vib-pim) -->
 
 
 ---
 
 <p align="left">
-<a href="#table-of-contents">👆🏻Back to Contents</a>
+<a href="#contents">👆🏻Back to Contents</a>
 </p>
-
-
-
