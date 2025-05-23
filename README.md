@@ -3,12 +3,12 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/yifu-ding/Awesome-Edge-LLMs/main?logo=github) ![Static Badge](https://img.shields.io/badge/Contributions-welcome-blue.svg?style=flat) 
 
+A repository accompanying the survey *Edge AI Meets LLM* (coming soon), containing a comprehensive list of papers, codebases, toolchains, and open-source frameworks. It is intended to serve as a handbook for researchers and developers interested in Edge/Mobile LLMs. 
+
 
 ## 📢 News
 **May 23 2025**: Upload a comprehensive collection about frameworks & benchmarks, commercial products & applications, models, and add papers in frameworks section. 
 
-## About This Hub
-A repository accompanying the survey *Edge AI Meets LLM* (coming soon), containing a comprehensive list of papers, codebases, toolchains, and open-source frameworks. It is intended to serve as a handbook for researchers and developers interested in Edge/Mobile LLMs. 
 
 
 <p align="center">
@@ -209,8 +209,10 @@ A repository accompanying the survey *Edge AI Meets LLM* (coming soon), containi
 - [VI.A. ASIC & FPGA](docs/VI-hardware.md#via-asic--fpga)
 - [VI.B. PIM](docs/VI-hardware.md#vib-pim) -->
 
+## 📄 License
 
----
+This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 
 <p align="left">
 <a href="#contents">👆🏻Back to Contents</a>
