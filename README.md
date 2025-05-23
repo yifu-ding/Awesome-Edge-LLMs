@@ -5,7 +5,7 @@
 
 
 ## 📢 News
-**May 23 2025**: Upload papers in framework section. 
+**May 23 2025**: Upload a comprehensive collection about frameworks & benchmarks, commercial products & applications, models, and add papers in frameworks section. 
 
 ## About This Hub
 A repository accompanying the survey *Edge AI Meets LLM* (coming soon), containing a comprehensive list of papers, codebases, toolchains, and open-source frameworks. It is intended to serve as a handbook for researchers and developers interested in Edge/Mobile LLMs. 
@@ -150,7 +150,7 @@ A repository accompanying the survey *Edge AI Meets LLM* (coming soon), containi
 <a href="#contents">👆🏻Back to Contents</a>
 </p>
 
-## Commercial Products and Applications
+<!-- ## Commercial Products and Applications
 
 [II. Commercial Products and Cases](docs/II-commercial-products.md)
   - [II.A. Applications and AI Agents](docs/II-commercial-products.md#iib-applications-and-ai-agents)
@@ -165,7 +165,7 @@ A repository accompanying the survey *Edge AI Meets LLM* (coming soon), containi
 
 <p align="left">
 <a href="#contents">👆🏻Back to Contents</a>
-</p>
+</p> -->
 
 ## Paper Lists
 
