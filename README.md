@@ -1,7 +1,8 @@
 # Awesome-Edge-LLMs
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/yifu-ding/Awesome-Edge-LLMs/main?logo=github&color=blue) ![Static Badge](https://img.shields.io/badge/Contributions-welcome-blue.svg?style=flat) 
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/yifu-ding/Awesome-Edge-LLMs/main?logo=github) ![Static Badge](https://img.shields.io/badge/Contributions-welcome-blue.svg?style=flat) 
+
 
 ## 📢 News
 **May 23 2025**: A new repository accompanying the survey *Edge AI Meets LLM* (coming soon), containing a comprehensive list of papers, codebases, toolchains, and open-source frameworks. It is intended to serve as a handbook for researchers and developers interested in Edge/Mobile LLMs. 

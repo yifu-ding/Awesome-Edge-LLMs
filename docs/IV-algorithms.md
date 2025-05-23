@@ -1,5 +1,11 @@
 # IV. Algorithms
 
+<p align="left">
+<a href="../README.md#table-of-contents">👈🏻Back to Main Content</a>
+</p>
+
+
+
 ## IV.A. Model Compression Techniques
 
 ### IV.A.1. Sparsification
