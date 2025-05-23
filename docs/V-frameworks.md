@@ -24,7 +24,7 @@
 - [V.E. Multi-device Collaboration](V-frameworks.md#ve-multi-device-collaboration)
   - [V.E.1. Heterogeneous Platforms](V-frameworks.md#ve1-heterogeneous-platforms)
   - [V.E.2. Heterogeneous Computing](V-frameworks.md#ve2-heterogeneous-computing)
-[V.F. Cloud-Edge Collaboration](V-frameworks.md#vf-cloud-edge-collaboration)
+- [V.F. Cloud-Edge Collaboration](V-frameworks.md#vf-cloud-edge-collaboration)
   - [V.F.1. Separate Model Deployment](V-frameworks.md#vf31-separate-model-deployment)
   - [V.F.2. Partitioned Model Deployment](V-frameworks.md#vf32-partitioned-model-deployment)
 
