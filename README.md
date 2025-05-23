@@ -32,7 +32,7 @@ A repository accompanying the survey *Edge AI Meets LLM* (coming soon), containi
 ## 🌈 Tags Convention
 
 ***🔗 Hyper links***: 
-**Normal Paper:** <a href="https://link/to/paper" target="_blank"><img src="https://img.shields.io/badge/Publisher-YY.MM-b31b1b" alt="badge"/></a> 
+**Paper:** <a href="https://link/to/paper" target="_blank"><img src="https://img.shields.io/badge/Publisher-YY.MM-b31b1b" alt="badge"/></a> 
 **Official website:** <a href="https://link/to/official/website" target="_blank"><img src="https://img.shields.io/badge/official-organization-A9EA7A" alt="badge"/></a> 
 **Github repo**: <a href="https://link/to/git/repo" target="_blank"><img src="https://img.shields.io/badge/git-user--name-6BACF8" alt="badge"/></a> 
 **Huggingface link:** <a href="https://link/to/hf" target="_blank"><img src="https://img.shields.io/badge/hf-user--name-F8D44E" alt="badge"/></a> 
