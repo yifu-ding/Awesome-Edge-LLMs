@@ -7,18 +7,18 @@
 
 | Product/Model | Typical Application Scenarios | Links |
 |-|-|-|
-| MiniCPM | Offline multilingual translation, supports mainstream phones, 7 tokens/s | <a href="https://arxiv.org/abs/2403.09611" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.03-b31b1b" alt="badge" /> </a> <a href="https://github.com/OpenBMB/MiniCPM" target="_blank"> <img src="https://img.shields.io/badge/git-minicpm-6BACF8" alt="badge" /> </a> <a href="https://openbmb.cn/community/minicpm" target="_blank"> <img src="https://img.shields.io/badge/official-minicpm-A9EA7A" alt="badge" /> </a> |
-| Gemini Nano | Local smart replies, text rewriting and grammar correction | <a href="https://arxiv.org/abs/2312.11805" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.12-b31b1b" alt="badge" /> </a> <a href="https://deepmind.google/technologies/gemini/" target="_blank"> <img src="https://img.shields.io/badge/official-gemini-A9EA7A" alt="badge" /> </a> <a href="https://blog.google/technology/ai/google-gemini-ai/" target="_blank"> <img src="https://img.shields.io/badge/blog-gemini-A9EA7A" alt="badge" /> </a> |
-| BlueLM | News hot topic extraction and summary generation | <a href="https://github.com/vivo-ai-lab/BlueLM" target="_blank"> <img src="https://img.shields.io/badge/git-bluelm-6BACF8" alt="badge" /> </a> <a href="https://www.vivo.com/" target="_blank"> <img src="https://img.shields.io/badge/official-vivo-A9EA7A" alt="badge" /> </a> |
-<!-- | T5-small | Lightweight translation model, only 4% lower accuracy than larger models | <a href="https://arxiv.org/abs/2310.08744" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.10-b31b1b" alt="badge" /> </a> <a href="https://github.com/google-research/text-to-text-transfer-transformer" target="_blank"> <img src="https://img.shields.io/badge/git-t5-6BACF8" alt="badge" /> </a> <a href="https://huggingface.co/t5-small" target="_blank"> <img src="https://img.shields.io/badge/hf-t5_small-F8D44E" alt="badge" /> </a> | -->
+| MiniCPM | Offline multilingual translation, supports mainstream phones, 7 tokens/s | <a href="https://arxiv.org/abs/2403.09611" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.03-b31b1b" alt="badge"/></a> <a href="https://github.com/OpenBMB/MiniCPM" target="_blank"> <img src="https://img.shields.io/badge/git-minicpm-6BACF8" alt="badge"/></a> <a href="https://openbmb.cn/community/minicpm" target="_blank"> <img src="https://img.shields.io/badge/official-minicpm-A9EA7A" alt="badge"/></a> |
+| Gemini Nano | Local smart replies, text rewriting and grammar correction | <a href="https://arxiv.org/abs/2312.11805" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.12-b31b1b" alt="badge"/></a> <a href="https://deepmind.google/technologies/gemini/" target="_blank"> <img src="https://img.shields.io/badge/official-gemini-A9EA7A" alt="badge"/></a> <a href="https://blog.google/technology/ai/google-gemini-ai/" target="_blank"> <img src="https://img.shields.io/badge/blog-gemini-A9EA7A" alt="badge"/></a> |
+| BlueLM | News hot topic extraction and summary generation | <a href="https://github.com/vivo-ai-lab/BlueLM" target="_blank"> <img src="https://img.shields.io/badge/git-bluelm-6BACF8" alt="badge"/></a> <a href="https://www.vivo.com/" target="_blank"> <img src="https://img.shields.io/badge/official-vivo-A9EA7A" alt="badge"/></a> |
+<!-- | T5-small | Lightweight translation model, only 4% lower accuracy than larger models | <a href="https://arxiv.org/abs/2310.08744" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.10-b31b1b" alt="badge"/></a> <a href="https://github.com/google-research/text-to-text-transfer-transformer" target="_blank"> <img src="https://img.shields.io/badge/git-t5-6BACF8" alt="badge"/></a> <a href="https://huggingface.co/t5-small" target="_blank"> <img src="https://img.shields.io/badge/hf-t5_small-F8D44E" alt="badge"/></a> | -->
 
 
 ### Image Generation
 
 | Product/Model | Typical Application Scenarios | Links |
 |-|-|-|
-| Stable Diffusion v1.5 | Text-to-image generation on Xiaomi 14, 512×512 resolution in 15s | <a href="https://arxiv.org/abs/2112.10752" target="_blank"> <img src="https://img.shields.io/badge/arxiv-21.12-b31b1b" alt="badge" /> </a> <a href="https://github.com/CompVis/stable-diffusion" target="_blank"> <img src="https://img.shields.io/badge/git-stable_diffusion-6BACF8" alt="badge" /> </a> |
-| AndesGPT | AI inpainting on OPPO Find X7, local object removal and background filling | <a href="https://www.oppo.com/en/discover/technology/oppo-ai/" target="_blank"> <img src="https://img.shields.io/badge/official-oppo-A9EA7A" alt="badge" /> </a> |
+| Stable Diffusion v1.5 | Text-to-image generation on Xiaomi 14, 512×512 resolution in 15s | <a href="https://arxiv.org/abs/2112.10752" target="_blank"> <img src="https://img.shields.io/badge/arxiv-21.12-b31b1b" alt="badge"/></a> <a href="https://github.com/CompVis/stable-diffusion" target="_blank"> <img src="https://img.shields.io/badge/git-stable_diffusion-6BACF8" alt="badge"/></a> |
+| AndesGPT | AI inpainting on OPPO Find X7, local object removal and background filling | <a href="https://www.oppo.com/en/discover/technology/oppo-ai/" target="_blank"> <img src="https://img.shields.io/badge/official-oppo-A9EA7A" alt="badge"/></a> |
 
 
 ### Intelligent Assistant
@@ -26,9 +26,9 @@
 
 | Product/Model | Typical Application Scenarios | Links |
 |-|-|-|
-| YOYO Assistant | Smart itinerary management with calendar, location and preference-based scheduling | <a href="https://www.honor.com/cn/support/content/zh-cn15869976/" target="_blank"> <img src="https://img.shields.io/badge/official-honor-A9EA7A" alt="badge" /> </a> |
-| Huawei MateBook Assistant | Real-time speech-to-text and meeting summary generation with local processing | <a href="https://consumer.huawei.com/cn/support/content/zh-cn16005880/" target="_blank"> <img src="https://img.shields.io/badge/official-huawei-A9EA7A" alt="badge" /> </a> |
-| BioMistral-7B | On-device medical Q&A and health monitoring with 7B parameters | <a href="https://arxiv.org/abs/2401.05833" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.01-b31b1b" alt="badge" /> </a> |
+| YOYO Assistant | Smart itinerary management with calendar, location and preference-based scheduling | <a href="https://www.honor.com/cn/support/content/zh-cn15869976/" target="_blank"> <img src="https://img.shields.io/badge/official-honor-A9EA7A" alt="badge"/></a> |
+| Huawei MateBook Assistant | Real-time speech-to-text and meeting summary generation with local processing | <a href="https://consumer.huawei.com/cn/support/content/zh-cn16005880/" target="_blank"> <img src="https://img.shields.io/badge/official-huawei-A9EA7A" alt="badge"/></a> |
+| BioMistral-7B | On-device medical Q&A and health monitoring with 7B parameters | <a href="https://arxiv.org/abs/2401.05833" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.01-b31b1b" alt="badge"/></a> |
 
 
 
