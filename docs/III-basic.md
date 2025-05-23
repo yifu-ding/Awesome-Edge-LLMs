@@ -46,7 +46,7 @@
 | MM/OpenELM Series | Apple | <a href="https://arxiv.org/abs/2402.05100" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.02-b31b1b" alt="badge"/></a> |
 | MiLM Series | Xiaomi | <a href="https://xiaomi.com/" target="_blank"> <img src="https://img.shields.io/badge/official-xiaomi-A9EA7A" alt="badge"/></a> |
 | DCLM | Apple | <a href="https://arxiv.org/abs/2401.06692" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.01-b31b1b" alt="badge"/></a> |
-| SmolLM | Hugging Face | <a href="https://huggingface.co/smol-ai/SmolLM" target="_blank"> <img src="https://img.shields.io/badge/hf-smollm-F8D44E" alt="badge"/></a> |
+| SmolLM | Hugging Face | <a href="https://huggingface.co/smol-ai/SmolLM" target="_blank"> <img src="https://img.shields.io/badge/hf-smol--ai-F8D44E" alt="badge"/></a> |
 | Deepseek Series | DeepSeek-AI | <a href="https://deepseek.ai/" target="_blank"> <img src="https://img.shields.io/badge/official-deepseek-A9EA7A" alt="badge"/></a> <a href="https://github.com/deepseek-ai/DeepSeek-LLM" target="_blank"> <img src="https://img.shields.io/badge/git-deepseek-6BACF8" alt="badge"/></a> |
 
 ### Sort by Time

@@ -29,6 +29,17 @@ A repository accompanying the survey *Edge AI Meets LLM* (coming soon), containi
   <img src="https://img.shields.io/badge/arxiv-23.10-b31b1b" alt="badge" />
 </a> -->
 
+## 🌈 Tags Convention
+
+***🔗 Hyper links***: 
+**Normal Paper:** <a href="https://link/to/paper" target="_blank"><img src="https://img.shields.io/badge/Publisher-YY.MM-b31b1b" alt="badge"/></a> 
+**Official website:** <a href="https://link/to/official/website" target="_blank"><img src="https://img.shields.io/badge/official-organization-A9EA7A" alt="badge"/></a> 
+**Github repo**: <a href="https://link/to/git/repo" target="_blank"><img src="https://img.shields.io/badge/git-user--name-6BACF8" alt="badge"/></a> 
+**Huggingface link:** <a href="https://link/to/hf" target="_blank"><img src="https://img.shields.io/badge/hf-user--name-F8D44E" alt="badge"/></a> 
+
+***💡 Highlights***: **Short name:** <img src="https://img.shields.io/badge/Short--Name-7875DF" alt="badge"/> 
+**Survey**: <img src="https://img.shields.io/badge/Survey-568A37" alt="badge"/>  
+
 
 ## Contents
 
@@ -208,6 +219,7 @@ A repository accompanying the survey *Edge AI Meets LLM* (coming soon), containi
 [VI. Hardware](docs/VI-hardware.md)
 - [VI.A. ASIC & FPGA](docs/VI-hardware.md#via-asic--fpga)
 - [VI.B. PIM](docs/VI-hardware.md#vib-pim) -->
+
 
 ## 📄 License
 

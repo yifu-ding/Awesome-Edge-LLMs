@@ -260,7 +260,7 @@
 #### V.F.2 Partitioned Model Deployment
 - Poster: PipeLLM: Pipeline LLM Inference on Heterogeneous Devices with Sequence Slicing <a href="https://dl.acm.org/doi/10.1145/3603269.3610856" target="_blank"> <img src="https://img.shields.io/badge/ACM-23.10-b31b1b" alt="badge" /> </a>
 - EdgeShard: Efficient LLM Inference via Collaborative Edge Computing <a href="https://arxiv.org/abs/2405.14371" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.05-b31b1b" alt="badge" /> </a>
-- Mobile Edge Intelligence for Large Language Models: A Contemporary Survey <a href="https://arxiv.org/abs/2407.18921" target="_blank"> <img src="https://img.shields.io/badge/Survey-7875DF" alt="badge" /> </a>
+- Mobile Edge Intelligence for Large Language Models: A Contemporary Survey <a href="https://arxiv.org/abs/2407.18921" target="_blank"> <img src="https://img.shields.io/badge/Survey-568A37" alt="badge" /> </a>
 
 
 
