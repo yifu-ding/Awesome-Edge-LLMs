@@ -34,7 +34,7 @@
 - A fast and flexible fpga-based accelerator for natural language processing neural networks <a href="https://dl.acm.org/doi/10.1145/3564606" target="_blank"> <img src="https://img.shields.io/badge/TACO-2023-b31b1b" alt="badge"/></a>
 - HLSTransform: Energy-Efficient Llama 2 Inference on FPGAs Via High Level Synthesis <a href="https://arxiv.org/abs/2405.00738" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.05-b31b1b" alt="badge"/></a>
 - Designing efficient LLM accelerators for edge devices <a href="https://arxiv.org/abs/2408.00462" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.08-b31b1b" alt="badge"/></a>
-- Understanding the potential of fpga-based spatial acceleration for large language model inference <a href="https://dl.acm.org/doi/10.1145/3656177" target="_blank"> <img src="https://img.shields.io/badge/ACM-TRETS-2024-b31b1b" alt="badge"/></a>
+- Understanding the potential of fpga-based spatial acceleration for large language model inference <a href="https://dl.acm.org/doi/10.1145/3656177" target="_blank"> <img src="https://img.shields.io/badge/TRETS-2024-b31b1b" alt="badge"/></a>
 - Flightllm: Efficient large language model inference with a complete mapping flow on fpgas <a href="https://dl.acm.org/doi/10.1145/3626202.3637562" target="_blank"> <img src="https://img.shields.io/badge/FPGA-2024-b31b1b" alt="badge"/></a> <a href="https://github.com/FlightLLM/flightllm_test_demo" target="_blank"> <img src="https://img.shields.io/badge/github-6BACF8" alt="badge"/></a>
 - Bridging the Gap Between LLMs and LNS with Dynamic Data Format and Architecture Codesign <a href="https://ieeexplore.ieee.org/document/10764686" target="_blank"> <img src="https://img.shields.io/badge/MICRO-2024-b31b1b" alt="badge"/></a>
 
@@ -89,7 +89,7 @@
 ### VI.B.3. Operator Optimization
  - PIMnast: Balanced Data Placement for GEMV Acceleration with Processing-In-Memory <a href="https://ieeexplore.ieee.org/document/10820611" target="_blank"> <img src="https://img.shields.io/badge/SC24-W-b31b1b" alt="badge"/></a>
  - Aespa: Asynchronous execution scheme to exploit bank-level parallelism of processing-in-memory <a href="https://ieeexplore.ieee.org/document/10411371" target="_blank"> <img src="https://img.shields.io/badge/MICRO-2023-b31b1b" alt="badge"/></a>
- - Reprogrammable Non-Linear Circuits Using ReRAM for NN Accelerators <a href="https://dl.acm.org/doi/abs/10.1145/3617894" target="_blank"> <img src="https://img.shields.io/badge/ACM-TRETS-2024-b31b1b" alt="badge"/></a>
+ - Reprogrammable Non-Linear Circuits Using ReRAM for NN Accelerators <a href="https://dl.acm.org/doi/abs/10.1145/3617894" target="_blank"> <img src="https://img.shields.io/badge/TRETS-2024-b31b1b" alt="badge"/></a>
  - Towards Floating Point-Based Attention-Free LLM: Hybrid PIM with Non-Uniform Data Format and Reduced Multiplications <a href="https://dl.acm.org/doi/10.1145/3676536.3676776" target="_blank"> <img src="https://img.shields.io/badge/ICCAD-2024-b31b1b" alt="badge"/></a>
  - FloatAP: Supporting High-Performance Floating-Point Arithmetic in Associative Processors <a href="https://ieeexplore.ieee.org/document/10764430" target="_blank"> <img src="https://img.shields.io/badge/MICRO-2024-b31b1b" alt="badge"/></a>
  - TranCIM: Full-digital bitline-transpose CIM-based sparse transformer accelerator with pipeline/parallel reconfigurable modes <a href="https://ieeexplore.ieee.org/document/9931922" target="_blank"> <img src="https://img.shields.io/badge/JSSC-2022-b31b1b" alt="badge"/></a>
@@ -110,7 +110,7 @@
 
 ### VI.B.5. Model Compression
  - Sparse attention acceleration with synergistic in-memory pruning and on-chip recomputation <a href="https://dl.acm.org/doi/10.1109/MICRO56248.2022.00059" target="_blank"> <img src="https://img.shields.io/badge/MICRO-2022-b31b1b" alt="badge"/></a>
- - Primate: Processing in memory acceleration for dynamic token-pruning transformers <a href="https://ieeexplore.ieee.org/document/10473968" target="_blank"> <img src="https://img.shields.io/badge/ASP-DAC-2024-b31b1b" alt="badge"/></a>
+ - Primate: Processing in memory acceleration for dynamic token-pruning transformers <a href="https://ieeexplore.ieee.org/document/10473968" target="_blank"> <img src="https://img.shields.io/badge/ASP.DAC-2024-b31b1b" alt="badge"/></a>
  - Lauws: Local adaptive unstructured weight sparsity of load balance for dnn in near-data processing <a href="https://ieeexplore.ieee.org/document/10558554" target="_blank"> <img src="https://img.shields.io/badge/ISCAS-2024-b31b1b" alt="badge"/></a>
  - Multcim: Digital computing-in-memory-based multimodal transformer accelerator with attention-token-bit hybrid sparsity <a href="https://ieeexplore.ieee.org/document/10226612" target="_blank"> <img src="https://img.shields.io/badge/JSSC-2023-b31b1b" alt="badge"/></a>
  - HARDSEA: Hybrid analog-ReRAM clustering and digital-SRAM in-memory computing accelerator for dynamic sparse self-attention in transformer <a href="https://ieeexplore.ieee.org/document/10367847" target="VLSI-2023_blank"> <img src="https://img.shields.io/badge/-b31b1b" alt="badge"/></a>
