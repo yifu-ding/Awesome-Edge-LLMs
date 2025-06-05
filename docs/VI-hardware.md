@@ -113,7 +113,7 @@
  - Primate: Processing in memory acceleration for dynamic token-pruning transformers <a href="https://ieeexplore.ieee.org/document/10473968" target="_blank"> <img src="https://img.shields.io/badge/ASP.DAC-2024-b31b1b" alt="badge"/></a>
  - Lauws: Local adaptive unstructured weight sparsity of load balance for dnn in near-data processing <a href="https://ieeexplore.ieee.org/document/10558554" target="_blank"> <img src="https://img.shields.io/badge/ISCAS-2024-b31b1b" alt="badge"/></a>
  - Multcim: Digital computing-in-memory-based multimodal transformer accelerator with attention-token-bit hybrid sparsity <a href="https://ieeexplore.ieee.org/document/10226612" target="_blank"> <img src="https://img.shields.io/badge/JSSC-2023-b31b1b" alt="badge"/></a>
- - HARDSEA: Hybrid analog-ReRAM clustering and digital-SRAM in-memory computing accelerator for dynamic sparse self-attention in transformer <a href="https://ieeexplore.ieee.org/document/10367847" target="VLSI-2023_blank"> <img src="https://img.shields.io/badge/-b31b1b" alt="badge"/></a>
+ - HARDSEA: Hybrid analog-ReRAM clustering and digital-SRAM in-memory computing accelerator for dynamic sparse self-attention in transformer <a href="https://ieeexplore.ieee.org/document/10367847" target="_blank"> <img src="https://img.shields.io/badge/VLSI-2023-b31b1b" alt="badge"/></a>
  - ASADI: Accelerating sparse attention using diagonal-based in-situ computing <a href="https://ieeexplore.ieee.org/abstract/document/10476432" target="_blank"> <img src="https://img.shields.io/badge/HPCA-2024-b31b1b" alt="badge"/></a>
 
 
