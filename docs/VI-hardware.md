@@ -15,12 +15,11 @@
 - [VI.B. PIM]()
 
 ## VI.A. ASIC & FPGA
--  GOBO: Quantizing Attention-Based NLP Models for Low Latency and Energy Efficient Inference <a herf="https://microarch.org/micro53/papers/738300a811.pdf" target="_blank"> <img src="https://img.shields.io/badge/MICRO-2020-b31b1b" alt="MICRO 2020 badge"/>
-
-
-
 
 ### VI.A.1. Quantization
+- GOBO: Quantizing Attention-Based NLP Models for Low Latency and Energy Efficient Inference <a herf="https://microarch.org/micro53/papers/738300a811.pdf" target="_blank"> <img src="https://img.shields.io/badge/MICRO-2020-b31b1b" alt="MICRO 2020 badge"/></a>
+
+
 
 ### VI.A.2. Sparsity
 
