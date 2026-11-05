@@ -230,6 +230,7 @@
 ### V.F. Cloud-Edge Collaboration
 
 #### V.F.1 Separate Model Deployment
+- Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution <a href="https://arxiv.org/abs/2610.17816" target="_blank"> <img src="https://img.shields.io/badge/arxiv-26.10-b31b1b" alt="badge" /> </a> <a href="https://github.com/OpenBMB/EC2-Bench" target="_blank"> <img src="https://img.shields.io/badge/git-OpenBMB-6BACF8" alt="badge" /> </a> <a href="https://huggingface.co/datasets/chengpingan/EC2-Bench" target="_blank"> <img src="https://img.shields.io/badge/hf-chengpingan-F8D44E" alt="badge" /> </a> <a href="https://passionate11.github.io/ec2-bench-project-page/" target="_blank"> <img src="https://img.shields.io/badge/project-page-2EA44F" alt="badge" /> </a> <img src="https://img.shields.io/badge/EC2--Bench-7875DF" alt="badge" />
 - PerLLM: Personalized Inference Scheduling with Edge-Cloud Collaboration for Diverse LLM Services <a href="https://arxiv.org/abs/2405.14636" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.05-b31b1b" alt="badge" /> </a>
 - Collaborative Learning of On-Device Small Model and Cloud-Based Large Model: Advances and Future Directions <a href="https://arxiv.org/abs/2504.15300" target="_blank"> <img src="https://img.shields.io/badge/arxiv-24.04-b31b1b" alt="badge" /> </a>
 - Cloud-Device Collaborative Learning for Multimodal Large Language Models <a href="https://arxiv.org/abs/2312.16279" target="_blank"> <img src="https://img.shields.io/badge/arxiv-23.12-b31b1b" alt="badge" /> </a>
